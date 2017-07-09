@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fun"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Head To the Fun Zone">
+
+    </item>
+    <item
+        android:id="@+id/sms"
+        android:title="SMS Stuff"
+        android:icon="@mipmap/ic_launcher_round"></item>
+
+    <item
+        android:id="@+id/androidGuy"
+        android:title="puzzles"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="always"
+        ></item>
+</menu>
